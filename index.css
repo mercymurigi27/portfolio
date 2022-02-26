@@ -1,0 +1,59 @@
+.cont{
+    
+    background-image:url(image/christin-hume-Hcfwew744z4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+   
+}
+
+.nav{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px; 
+    font-size: 24pt;
+    text-shadow: 10pt;
+}
+a{
+    color: rgba(61, 5, 163, 0.925);
+}
+
+.head{
+display: flex;
+justify-content: space-evenly;
+
+}
+
+
+.head2{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0pt;
+    padding-bottom: 0pt;
+    height: 40pc;
+    color: black;
+    font-size: 22px;
+    text-shadow: 50px;
+    overflow: visible;
+}
+.head1{
+    font-size: 24px;
+    color:(61, 5, 163, 0.925);
+}
+  
+
+#pic{
+    height: 20pc;
+    border-radius: 20px;
+    opacity: 1;
+
+}
+
+
+
+
