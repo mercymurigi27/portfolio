@@ -4,6 +4,7 @@
     background-repeat: repeat;
     background-size: cover;
     height: 50pc;
+    
 }
 
 .edu1{
@@ -12,6 +13,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 24pt;
     padding: 30pt;
+    
     
 }
 span{
@@ -23,6 +25,8 @@ span{
     background-image: linear-gradient(180deg, cyan, gold);
     font-size: 20pt;
     font-family: 'Times New Roman', Times, serif;
+    padding: 20pt;
+    opacity: 0.5;
 
 }
 

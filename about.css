@@ -10,10 +10,6 @@
     display:flex ;
     justify-content: center;
 }
-.me1 img{
-    height: 30pc;
-    
-}
 .me2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20pt;
@@ -26,5 +22,12 @@
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20pt;
-    padding: 20pt;
+    justify-content: center;
+}
+
+#gif{
+    height: 30pc;
+    width: 25pc;
+   
+    
 }

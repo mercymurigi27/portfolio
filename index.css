@@ -1,11 +1,10 @@
 .cont{
     
     background-image:linear-gradient(-1800deg,rgb(21, 121, 121),gold);
-    background-repeat: no-repeat;
-    background-size: cover;
-color: rgb(0, 5, 1);
-   
+    box-sizing: border-box;
 }
+
+
 
 .nav{
     font-weight: bold;
@@ -22,21 +21,16 @@ a{
 
 .head{
 display: flex;
+justify-content: center;
 
 
 }
 
-#gif{
-    height: 20pc;
-    width: 30pc;
-    
-}
 .head2{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+    text-align: end;
     padding-top: 30px;
-    margin-top: 30px;
     margin-bottom: 0pt;
     padding-bottom: 0pt;
     height: 40pc;
@@ -49,10 +43,12 @@ display: flex;
     font-size: 24px;
     color:(61, 5, 163, 0.925);
 }
+.head1 img{
+    height: 30pc;
+}
   
 
-#gif:hover{
-    opacity: 1;
-}
+
+
 
 
