@@ -7,7 +7,7 @@
 }
 
 .edu1{
-    background-image:linear-gradient(to left,gold,white);
+    background-image:linear-gradient(to left,gold,cyan);
     opacity: 0.9;
     font-family: 'Times New Roman', Times, serif;
     font-size: 24pt;
@@ -20,7 +20,7 @@ span{
 }
 
 .edu2{
-    background-image: linear-gradient(180deg, white,gold);
+    background-image: linear-gradient(180deg, cyan, gold);
     font-size: 20pt;
     font-family: 'Times New Roman', Times, serif;
 

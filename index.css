@@ -1,6 +1,6 @@
 .cont{
     
-    background-image:linear-gradient(120deg,gold,beige);
+    background-image:linear-gradient(-1800deg,rgb(21, 121, 121),gold);
     background-repeat: no-repeat;
     background-size: cover;
 color: rgb(0, 5, 1);
@@ -11,7 +11,7 @@ color: rgb(0, 5, 1);
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 40px; 
     font-size: 24pt;
     text-shadow: 10pt;
@@ -22,7 +22,7 @@ a{
 
 .head{
 display: flex;
-justify-content: space-between;
+
 
 }
 
