@@ -1,0 +1,33 @@
+.gur{
+    background-image: linear-gradient(220deg,white,gold);
+}
+#tu{
+    font-size: 26pt;
+    color: rgb(78, 126, 6);
+    padding-top: 20pt;
+}
+.me{
+    display:flex ;
+    justify-content: center;
+}
+.me2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-weight: bold;
+    background-image: linear-gradient(gold,cyan);
+
+
+}
+.center{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    justify-content: center;
+}
+
+#gif{
+    height: 30pc;
+    width: 25pc;
+   
+    
+}

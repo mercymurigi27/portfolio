@@ -1,0 +1,53 @@
+.cont{
+    
+    background-image:linear-gradient(-1800deg,rgb(21, 121, 121),gold);
+    box-sizing: border-box;
+}
+
+
+
+.nav{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px; 
+    font-size: 24pt;
+    text-shadow: 10pt;
+}
+a{
+    color: rgb(1, 8, 0);
+}
+
+.head{
+display: flex;
+justify-content: center;
+
+
+}
+
+.head2{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: end;
+    padding-top: 30px;
+    margin-bottom: 0pt;
+    padding-bottom: 0pt;
+    height: 40pc;
+    color: rgb(0, 3, 0);
+    font-size: 22px;
+    text-shadow: 50px;
+    overflow: visible;
+}
+.head1{
+    font-size: 24px;
+    color:(61, 5, 163, 0.925);
+}
+.head1 img{
+    height: 30pc;
+}
+  
+
+
+
+
